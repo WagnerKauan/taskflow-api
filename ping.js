@@ -1,4 +1,4 @@
-import prisma from "./prismaDB";
+import prisma from "./prismaDB.js";
 
 
 async function ping(req, res) {
