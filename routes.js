@@ -11,11 +11,10 @@ import getProfile from "./controllers/controllerProfile/getProfile.js";
 import { getDeletedTasks } from "./controllers/controllersTasks/getDeletedTasks.js";
 import { restoreTask } from "./controllers/controllersTasks/restoreTask.js";
 import { deleteDefinitiveTask } from "./controllers/controllersTasks/deleteDefinitiveTask.js";
+import ping from "./ping.js";
 const route = Router()
 
-route.get('/', (req,res) => {
-    res.send('Hellow World!!')
-})
+route.get('/ping', ping)
 
 //rota de registro
 route.post('/registrar',register)
