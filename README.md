@@ -85,10 +85,10 @@ A **TaskFlow API** é a espinha dorsal do sistema de gerenciamento de tarefas da
 TaskFlow-api/
 ├── controllers/
 ├── middlewares/
-├── models/
-├── routes/
 ├── prisma/
-├── .env.example
+├── schemas/
+├── routes.js
+├── .env
 ├── server.js
 └── README.md
 ```
