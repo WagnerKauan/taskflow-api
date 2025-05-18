@@ -104,10 +104,7 @@ Este projeto está licenciado sob a licença **MIT** — veja o arquivo [LICENSE
 ## ✅ Status do projeto
 
 💥 **Finalizado e em produção!**  
-Deploy feito, API no ar e funcionando como prometido. Bora pra próxima! 😎🔥
+Deploy feito, API no ar e funcionando.
 
 ---
 
-## 💡 Ideia bônus
-
-Você pode adicionar uma seção `📬 Exemplo de uso` com comandos curl, ou até incluir uma collection do Postman exportada pra facilitar a vida de quem for testar a API.
